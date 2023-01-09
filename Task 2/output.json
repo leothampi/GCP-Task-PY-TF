@@ -1,0 +1,23 @@
+{
+    "attributes/": "block-project-ssh-keys\ncos-update-strategy\nenvironments-devops-cloud-google-com_environment-receiver-port\nenvironments-devops-cloud-google-com_inverting-proxy-ca-cert\nenvironments-devops-cloud-google-com_secret\nshutdown-script\nstartup-script\n",
+    "cpu-platform": "Intel Broadwell",
+    "description": "",
+    "disks/": "0/\n1/\n",
+    "guest-attributes/": "Guest attributes endpoint access is disabled.",
+    "hostname": "boost-8lngq.c.t54fbfa9bf0658dcb-tp.internal",
+    "id": "7579202952176682336",
+    "image": "projects/cloud-devshell-dev/global/images/cloud-shell-v20230102-000107",
+    "licenses/": "0/\n1/\n2/\n",
+    "machine-type": "projects/245839621156/machineTypes/e2-standard-4",
+    "maintenance-event": "NONE",
+    "name": "boost-8lngq",
+    "network-interfaces/": "0/\n",
+    "preempted": "FALSE",
+    "remaining-cpu-time": "-1",
+    "scheduling/": "automatic-restart\non-host-maintenance\npreemptible\n",
+    "service-accounts/": "default/\nleyon@jomcy.com\n",
+    "tags": "[\"environments-instance\"]",
+    "virtual-clock/": "drift-token\n",
+    "zone": "projects/245839621156/zones/asia-southeast1-b",
+    "": "attributes/\ncpu-platform\ndescription\ndisks/\nguest-attributes/\nhostname\nid\nimage\nlicenses/\nmachine-type\nmaintenance-event\nname\nnetwork-interfaces/\npreempted\nremaining-cpu-time\nscheduling/\nservice-accounts/\ntags\nvirtual-clock/\nzone\n"
+}
